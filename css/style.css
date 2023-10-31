@@ -1,3 +1,47 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
 .bg-blue {
     background-color: rgb(37,94,233);
+}
+.btn-color {
+    background-color: rgb(114, 137, 218);
+}
+
+.bg-dark {
+    background-color: rgb(35, 39, 42);
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.bg-image {
+    background-image: url(../img/jumbo.png);
+    background-size: 100%;
+    background-position: 70%;
+
+}
+
+.t-blue {
+    color: rgb(98, 117, 184);
+}
+
+.img {
+    width: 20px;
+    height: 13px;
+    margin-bottom: 12px;
+}
+
+ul {
+    list-style: none;
+    color: white;
+}
+
+li {
+    padding-bottom: 10px;
 }
